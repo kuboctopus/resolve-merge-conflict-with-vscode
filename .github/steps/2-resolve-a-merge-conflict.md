@@ -71,7 +71,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 3. [Ctrl + S]でresume.mdを保存します。
 4. 変更をステージ・コミットします。
    - 画面左タブの上から3番目の枝分かれしているアイコンをクリックします。
-   ![branch icon](https://github.com/kuboctopus/skills-resolve-merge-conflict-with-vscode/images/branch_icon.png)
+   ![branch icon](https://github.com/kuboctopus/resolve-merge-conflict-with-vscode/blob/main/images/branch_icon.png?raw=true)
    - 画面左側のタブのresume.mdの **+** をクリックします。
    - 青色の **Continue** ボタンをクリックします。
    - 青色の **Sync Changes 3** ボタンをクリックします。
